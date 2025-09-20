@@ -28,7 +28,7 @@ body{
     width: 400px;
     height: 400px;
     object-fit: cover;
-    border-radius: 50%; /* keeps the circular shape like your old profile */
+    border-radius: 50%; 
     box-shadow: 0 4px 30px rgba(0,0,0,0.3);
   }
   
